@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ### Lưu ý khi đọc income statemen
 
-- Cần quan tâm Income statement là thực tế hay hình thức
+- Cần quan tâm Income statement là thực tế hay hình
   - Income statment thực tế phản ánh tài chính thực sự theo các quy tắc kế toán
   - Báo cáo hình thức: **một báo cáo giả định hoặc dự phóng** được lập để cho thấy kết quả tài chính của doanh nghiệp có thể trông như thế nào dưới một số giả định, sự kiện hay kịch bản nhất định.
 

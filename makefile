@@ -4,6 +4,6 @@ doc_local:
 doc_remote_commit:
 	git add .
 	git commit -m "update doc"
-	git push origin main
+	git push origin source
 doc_remote:
 	USE_SSH=true yarn deploy
