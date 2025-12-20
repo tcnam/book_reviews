@@ -1,0 +1,809 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "5159": [
+      867,
+      1869,
+      3249,
+      4813,
+      6061,
+      7643,
+      8401,
+      9785,
+      5159
+    ],
+    "9785": [
+      867,
+      1869,
+      3249,
+      4212,
+      4813,
+      5159,
+      7643,
+      9785
+    ],
+    "17896441": [
+      1869,
+      5159,
+      8401
+    ],
+    "59362658": [
+      9325
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "094546aa": [
+      7907
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "14eb3368": [
+      1869,
+      6969
+    ],
+    "18c41134": [
+      9262
+    ],
+    "1e4232ab": [
+      1953
+    ],
+    "1f391b9e": [
+      1869,
+      5159,
+      6061
+    ],
+    "23b67c8e": [
+      8313
+    ],
+    "258ca354": [
+      1744
+    ],
+    "33fc5bb8": [
+      1869,
+      5159,
+      9785,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "418dc624": [
+      67
+    ],
+    "4468b5bd": [
+      2484
+    ],
+    "4e2ff92d": [
+      2571
+    ],
+    "533a09ca": [
+      3098
+    ],
+    "5c868d36": [
+      1974
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "621db11d": [
+      1869,
+      9785,
+      4212
+    ],
+    "63ec53a5": [
+      7816
+    ],
+    "6875c492": [
+      1869,
+      5159,
+      9785,
+      4813
+    ],
+    "7277b71e": [
+      705
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7661071f": [
+      8737
+    ],
+    "77a0c6f2": [
+      6465
+    ],
+    "781098b5": [
+      4781
+    ],
+    "7b78bb81": [
+      5688
+    ],
+    "7be5bc58": [
+      8340
+    ],
+    "814f3328": [
+      7472
+    ],
+    "822bd8ab": [
+      2748
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "95e4fe33": [
+      1907
+    ],
+    "98f3dc41": [
+      3535
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "9f0d589f": [
+      7404
+    ],
+    "a6aa9e1f": [
+      1869,
+      5159,
+      9785,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "c1c1a01d": [
+      7371
+    ],
+    "c4f5d8e4": [
+      1869,
+      2634
+    ],
+    "ccc49370": [
+      1869,
+      5159,
+      9785,
+      3249
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "dff1c289": [
+      1724
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "e3a6cd97": [
+      5267
+    ],
+    "e44a2883": [
+      4736
+    ],
+    "ea3a70a2": [
+      2181
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "f55d3e7a": [
+      8863
+    ],
+    "fe310f91": [
+      3452
+    ],
+    "styles": [
+      867,
+      2634,
+      3249,
+      4212,
+      4813,
+      5159,
+      5354,
+      6061,
+      6969,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      9785,
+      1869
+    ]
+  },
+  "assets": {
+    "67": {
+      "js": [
+        {
+          "file": "assets/js/418dc624.c32fb07f.js",
+          "hash": "f20f1f21d8af6c77",
+          "publicPath": "/book_reviews/assets/js/418dc624.c32fb07f.js"
+        }
+      ]
+    },
+    "705": {
+      "js": [
+        {
+          "file": "assets/js/7277b71e.0eb4bce6.js",
+          "hash": "494f68a4fd40ed5a",
+          "publicPath": "/book_reviews/assets/js/7277b71e.0eb4bce6.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.9a281b79.js",
+          "hash": "d0228c40d0455631",
+          "publicPath": "/book_reviews/assets/js/33fc5bb8.9a281b79.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.ce69952a.js",
+          "hash": "90cfd14a87396286",
+          "publicPath": "/book_reviews/assets/js/a7456010.ce69952a.js"
+        }
+      ]
+    },
+    "1724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.deee9053.js",
+          "hash": "35bd1c4c0dafd24b",
+          "publicPath": "/book_reviews/assets/js/dff1c289.deee9053.js"
+        }
+      ]
+    },
+    "1744": {
+      "js": [
+        {
+          "file": "assets/js/258ca354.a964d052.js",
+          "hash": "e7238db827393f0c",
+          "publicPath": "/book_reviews/assets/js/258ca354.a964d052.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.9072f9ea.css",
+          "hash": "2cd2bd9e9c649827",
+          "publicPath": "/book_reviews/assets/css/styles.9072f9ea.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.36e2bd12.js",
+          "hash": "63807d6da079de5f",
+          "publicPath": "/book_reviews/assets/js/acecf23e.36e2bd12.js"
+        }
+      ]
+    },
+    "1907": {
+      "js": [
+        {
+          "file": "assets/js/95e4fe33.4f7db814.js",
+          "hash": "19e1c9f0d5a0c704",
+          "publicPath": "/book_reviews/assets/js/95e4fe33.4f7db814.js"
+        }
+      ]
+    },
+    "1953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.743525fa.js",
+          "hash": "e4d4984bf4edcbb9",
+          "publicPath": "/book_reviews/assets/js/1e4232ab.743525fa.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.f58d182f.js",
+          "hash": "a82224d3c48c091b",
+          "publicPath": "/book_reviews/assets/js/73664a40.f58d182f.js"
+        }
+      ]
+    },
+    "1974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.fd1bea6b.js",
+          "hash": "ac13146c28c34633",
+          "publicPath": "/book_reviews/assets/js/5c868d36.fd1bea6b.js"
+        }
+      ]
+    },
+    "2181": {
+      "js": [
+        {
+          "file": "assets/js/ea3a70a2.18fb4e6b.js",
+          "hash": "24f89f8202791bc6",
+          "publicPath": "/book_reviews/assets/js/ea3a70a2.18fb4e6b.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.fba26a23.js",
+          "hash": "16e952cf1c7d2909",
+          "publicPath": "/book_reviews/assets/js/2237.fba26a23.js"
+        }
+      ]
+    },
+    "2484": {
+      "js": [
+        {
+          "file": "assets/js/4468b5bd.759f49c1.js",
+          "hash": "b3912b21c1cb5787",
+          "publicPath": "/book_reviews/assets/js/4468b5bd.759f49c1.js"
+        }
+      ]
+    },
+    "2571": {
+      "js": [
+        {
+          "file": "assets/js/4e2ff92d.ea697dee.js",
+          "hash": "cd48599d6a637749",
+          "publicPath": "/book_reviews/assets/js/4e2ff92d.ea697dee.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.79505a7d.js",
+          "hash": "927107699c267f7b",
+          "publicPath": "/book_reviews/assets/js/c4f5d8e4.79505a7d.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.7c910577.js",
+          "hash": "43bbfe4e66fa65cd",
+          "publicPath": "/book_reviews/assets/js/9e4087bc.7c910577.js"
+        }
+      ]
+    },
+    "2748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.7acb8715.js",
+          "hash": "cb0c35f05f038c3a",
+          "publicPath": "/book_reviews/assets/js/822bd8ab.7acb8715.js"
+        }
+      ]
+    },
+    "3098": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.0e01b023.js",
+          "hash": "a89119d569d8e2f6",
+          "publicPath": "/book_reviews/assets/js/533a09ca.0e01b023.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.1e3de3fd.js",
+          "hash": "83e9ab02480eed98",
+          "publicPath": "/book_reviews/assets/js/ccc49370.1e3de3fd.js"
+        }
+      ]
+    },
+    "3452": {
+      "js": [
+        {
+          "file": "assets/js/fe310f91.d96bbb70.js",
+          "hash": "b78b3dd6152fc693",
+          "publicPath": "/book_reviews/assets/js/fe310f91.d96bbb70.js"
+        }
+      ]
+    },
+    "3535": {
+      "js": [
+        {
+          "file": "assets/js/98f3dc41.098c9abd.js",
+          "hash": "e97a50c4e40710ca",
+          "publicPath": "/book_reviews/assets/js/98f3dc41.098c9abd.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.5e55bfa9.js",
+          "hash": "65fdbd4d3f4a5709",
+          "publicPath": "/book_reviews/assets/js/f4f34a3a.5e55bfa9.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.e85d40a8.js",
+          "hash": "d6aeb20ad0659cc8",
+          "publicPath": "/book_reviews/assets/js/8717b14a.e85d40a8.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.9399d8f1.js",
+          "hash": "edf568841641cd0c",
+          "publicPath": "/book_reviews/assets/js/0e384e19.9399d8f1.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.e5b426ce.js",
+          "hash": "e8d7d9fd3059f6a7",
+          "publicPath": "/book_reviews/assets/js/393be207.e5b426ce.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.e906f59b.js",
+          "hash": "ea02aa6dd523cbab",
+          "publicPath": "/book_reviews/assets/js/621db11d.e906f59b.js"
+        }
+      ]
+    },
+    "4736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.ab8c4a28.js",
+          "hash": "35b999379f1c04f1",
+          "publicPath": "/book_reviews/assets/js/e44a2883.ab8c4a28.js"
+        }
+      ]
+    },
+    "4781": {
+      "js": [
+        {
+          "file": "assets/js/781098b5.a6d1d3d6.js",
+          "hash": "754c16af27b6d01c",
+          "publicPath": "/book_reviews/assets/js/781098b5.a6d1d3d6.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.ae9a2a7c.js",
+          "hash": "8c274a50d4564f12",
+          "publicPath": "/book_reviews/assets/js/6875c492.ae9a2a7c.js"
+        }
+      ]
+    },
+    "5159": {
+      "js": [
+        {
+          "file": "assets/js/5159.345629eb.js",
+          "hash": "8c978750f3817356",
+          "publicPath": "/book_reviews/assets/js/5159.345629eb.js"
+        }
+      ]
+    },
+    "5267": {
+      "js": [
+        {
+          "file": "assets/js/e3a6cd97.b682ada3.js",
+          "hash": "c3b920e443fe0225",
+          "publicPath": "/book_reviews/assets/js/e3a6cd97.b682ada3.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.d67e9fca.js",
+          "hash": "1b4aa2f1e9a4a17c",
+          "publicPath": "/book_reviews/assets/js/runtime~main.d67e9fca.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.aa6790d7.js",
+          "hash": "fcf6da916e926a07",
+          "publicPath": "/book_reviews/assets/js/d9f32620.aa6790d7.js"
+        }
+      ]
+    },
+    "5688": {
+      "js": [
+        {
+          "file": "assets/js/7b78bb81.7a46437d.js",
+          "hash": "04fdc33dcb541685",
+          "publicPath": "/book_reviews/assets/js/7b78bb81.7a46437d.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.e113a058.js",
+          "hash": "a6fcb2765c29aa9f",
+          "publicPath": "/book_reviews/assets/js/aba21aa0.e113a058.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.6e02a56c.js",
+          "hash": "6cd47360cb49d83e",
+          "publicPath": "/book_reviews/assets/js/1f391b9e.6e02a56c.js"
+        }
+      ]
+    },
+    "6465": {
+      "js": [
+        {
+          "file": "assets/js/77a0c6f2.8d8e1668.js",
+          "hash": "72bf2b852d1e0040",
+          "publicPath": "/book_reviews/assets/js/77a0c6f2.8d8e1668.js"
+        }
+      ]
+    },
+    "6969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.3f5fae6f.js",
+          "hash": "e1a1526b66140a3d",
+          "publicPath": "/book_reviews/assets/js/14eb3368.3f5fae6f.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.e155e99e.js",
+          "hash": "b068bc7e553fa97c",
+          "publicPath": "/book_reviews/assets/js/a7bd4aaa.e155e99e.js"
+        }
+      ]
+    },
+    "7371": {
+      "js": [
+        {
+          "file": "assets/js/c1c1a01d.767941f8.js",
+          "hash": "8fefe7a7fdcacbaa",
+          "publicPath": "/book_reviews/assets/js/c1c1a01d.767941f8.js"
+        }
+      ]
+    },
+    "7404": {
+      "js": [
+        {
+          "file": "assets/js/9f0d589f.e8b57b4b.js",
+          "hash": "88e60bd5582270e7",
+          "publicPath": "/book_reviews/assets/js/9f0d589f.e8b57b4b.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.20729e97.js",
+          "hash": "4f90c50accd75083",
+          "publicPath": "/book_reviews/assets/js/814f3328.20729e97.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.bfabcb5a.js",
+          "hash": "b5a08576533ee1e7",
+          "publicPath": "/book_reviews/assets/js/a6aa9e1f.bfabcb5a.js"
+        }
+      ]
+    },
+    "7816": {
+      "js": [
+        {
+          "file": "assets/js/63ec53a5.17e72acf.js",
+          "hash": "f537d62f4293fdad",
+          "publicPath": "/book_reviews/assets/js/63ec53a5.17e72acf.js"
+        }
+      ]
+    },
+    "7907": {
+      "js": [
+        {
+          "file": "assets/js/094546aa.66efadc0.js",
+          "hash": "dcfe758a27a13dc8",
+          "publicPath": "/book_reviews/assets/js/094546aa.66efadc0.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.acaf5f7f.js",
+          "hash": "41343364721a5850",
+          "publicPath": "/book_reviews/assets/js/01a85c17.acaf5f7f.js"
+        }
+      ]
+    },
+    "8313": {
+      "js": [
+        {
+          "file": "assets/js/23b67c8e.4a640b1b.js",
+          "hash": "b0f6dda858cc092e",
+          "publicPath": "/book_reviews/assets/js/23b67c8e.4a640b1b.js"
+        }
+      ]
+    },
+    "8340": {
+      "js": [
+        {
+          "file": "assets/js/7be5bc58.9f6f1a95.js",
+          "hash": "b9a91a5475b750fb",
+          "publicPath": "/book_reviews/assets/js/7be5bc58.9f6f1a95.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.691f67a9.js",
+          "hash": "0e3ff05f195b8535",
+          "publicPath": "/book_reviews/assets/js/17896441.691f67a9.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.6a2d5ba9.js",
+          "hash": "30905743cc19a627",
+          "publicPath": "/book_reviews/assets/js/925b3f96.6a2d5ba9.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.284cbcd2.js",
+          "hash": "fb6fbe161b162c7c",
+          "publicPath": "/book_reviews/assets/js/7661071f.284cbcd2.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.7d870c30.js",
+          "hash": "57cf759a933b8541",
+          "publicPath": "/book_reviews/assets/js/main.7d870c30.js"
+        }
+      ]
+    },
+    "8863": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.64b6ff18.js",
+          "hash": "9e7709588ea55b31",
+          "publicPath": "/book_reviews/assets/js/f55d3e7a.64b6ff18.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.e2912bdc.js",
+          "hash": "49767ce7334e129b",
+          "publicPath": "/book_reviews/assets/js/a94703ab.e2912bdc.js"
+        }
+      ]
+    },
+    "9262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.a9f1d454.js",
+          "hash": "0ed1d5f54d0a93d7",
+          "publicPath": "/book_reviews/assets/js/18c41134.a9f1d454.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.059a4886.js",
+          "hash": "ca2e598d529223fa",
+          "publicPath": "/book_reviews/assets/js/59362658.059a4886.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.213c6f01.js",
+          "hash": "3bd4381804a7273b",
+          "publicPath": "/book_reviews/assets/js/e273c56f.213c6f01.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.2992cfd7.js",
+          "hash": "da38b5925b83b6b2",
+          "publicPath": "/book_reviews/assets/js/5e95c892.2992cfd7.js"
+        }
+      ]
+    },
+    "9785": {
+      "js": [
+        {
+          "file": "assets/js/9785.21c0aed2.js",
+          "hash": "c74cb8b6424fa52f",
+          "publicPath": "/book_reviews/assets/js/9785.21c0aed2.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.4bcc1e7e.js",
+          "hash": "7144ac3d9abb7361",
+          "publicPath": "/book_reviews/assets/js/36994c47.4bcc1e7e.js"
+        }
+      ]
+    }
+  }
+}

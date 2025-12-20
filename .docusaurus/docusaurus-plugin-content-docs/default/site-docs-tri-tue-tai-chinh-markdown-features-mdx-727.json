@@ -1,0 +1,20 @@
+{
+  "id": "Tri-Tue-Tai-Chinh/markdown-features",
+  "title": "markdown-features",
+  "description": "This is Docusaurus green !",
+  "source": "@site/docs/Tri-Tue-Tai-Chinh/markdown-features.mdx",
+  "sourceDirName": "Tri-Tue-Tai-Chinh",
+  "slug": "/Tri-Tue-Tai-Chinh/markdown-features",
+  "permalink": "/book_reviews/docs/Tri-Tue-Tai-Chinh/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tri-Tue-Tai-Chinh/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chương 3: Bảng cân đối kế toán (Balance Sheet) - nơi vén mở nhiều điều nhất",
+    "permalink": "/book_reviews/docs/Tri-Tue-Tai-Chinh/chapter-3"
+  }
+}

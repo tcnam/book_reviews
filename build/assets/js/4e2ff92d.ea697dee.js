@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbook_reviews=globalThis.webpackChunkbook_reviews||[]).push([[2571],{960:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/book_reviews/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
