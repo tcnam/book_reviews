@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Chương 3: Bảng cân đối kế toán (Balance Sheet) - nơi vén mở nhiều điều nhất
 
-### Lưu ý khi đọc income statement
+### Lưu ý khi đọc income statemen
 
 - Cần quan tâm Income statement là thực tế hay hình thức (pro forma)
   - Income statment thực tế phản ánh tài chính thực sự theo các quy tắc kế toán
