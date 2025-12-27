@@ -36,6 +36,8 @@ Gồm các thị trường sau:
 
 ### 2.2. Thị trường vốn (capital market)
 
+Cung cấp vốn đầu tư trung, dài hạn.
+
 ## 3. Phân loại thị trường tài chính
 
 ## 4. Chức năng, vai trò của thị trường tài chính
