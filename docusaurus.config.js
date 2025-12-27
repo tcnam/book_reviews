@@ -97,9 +97,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            sidebarId: 'BookReviewSidebar',
+            // position: 'left',
+            label: 'Book Reviews',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'MathSidebar',
+            // position: 'left',
+            label: 'Math',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -116,7 +122,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Book Reviews',
                 to: '/docs/intro',
               },
             ],

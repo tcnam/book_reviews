@@ -1,3 +1,5 @@
+lib_install:
+	yarn install
 doc_local:
 	yarn build
 	yarn start
