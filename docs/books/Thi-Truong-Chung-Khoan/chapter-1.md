@@ -18,7 +18,7 @@ Có 2 phương thức huy động vốn:
 
 ### 2.1. Thị trường tiền tệ (money market)
 
-Có thời hạn dưới 1 năm.
+Có thời hạn dưới 1 năm, có độ an toàn cao
 
 Các chủ thể tham gia vào thị trường tiền gửi gồm:
 - Kho bạc nhà nước
