@@ -12,4 +12,4 @@ doc_remote_win:
 	git add .
 	git commit -m "update doc"
 	git push origin source
-	$env:USE_SSH = "true"; yarn deploy
+	cmd /C "set USE_SSH=true&& yarn deploy"
