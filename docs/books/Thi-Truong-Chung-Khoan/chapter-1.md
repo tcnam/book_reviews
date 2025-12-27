@@ -18,7 +18,21 @@ Có 2 phương thức huy động vốn:
 
 ### 2.1. Thị trường tiền tệ (money market)
 
-Có thời hạn dưới 1 năm, bao gồm một vài loại phổ biến như: tín phiếu kho bạc, thương phiếu, kì phiếu, chứng chỉ tiền gửi, kì phiếu ngân hàng
+Có thời hạn dưới 1 năm.
+
+Các chủ thể tham gia vào thị trường tiền gửi gồm:
+- Kho bạc nhà nước
+- Ngân hàng trung ương
+- Ngân hàng thương mại
+- Công ty tài chính, tổ chức kinh tế
+- Cá nhân trong xã hội
+
+Gồm các thị trường sau:
+- Thị trường tiền gửi
+- Thị trường tín dụng
+- Thị trường liên ngân hàng
+- Thị tường mở
+- Thị trường trái phiếu kho bạc
 
 ### 2.2. Thị trường vốn (capital market)
 
