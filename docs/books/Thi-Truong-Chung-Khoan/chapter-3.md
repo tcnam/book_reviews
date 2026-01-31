@@ -201,16 +201,17 @@ $$
 
 ## 3. Các chứng khoán khác
 
-### 3.1. Hợp đồng tương lai (Future contracts):
-
-Hợp đồng mua bán chứng khoán:
+Hợp đồng tương lai - Future contracts:
 - Tại ngày giao dịch, đôi bên thoả thuận về số lượng gía cả
 - Thanh toán và giao hàng sẽ diễn tra trong tương lai
 
-
-
-
-
-
-
-
+Quyền chọn - Options: 
+- Là hợp đồng quy định quyền được mua hay được bán một số lượng chứng khoán nhất định với giá cả ấn định trước trong một thời gian nhất định, thời hạn bình thường là 3 tháng, 
+- Gồm 3 dạng theo quy ước:
+    - Quyền chọn mua - Call options: cho phép mua cổ phần trong thời gian cố định, theo giá thỏa thuận trước
+    - Quyền chọn bán - Put options: ngược lại
+    - QUyền chọn kéo - two-way options, put and call options: phí nhiều hơn 2 cái trên
+- Giá của quyền chọn tùy thuộc vào 3 yếu tố chính:
+    - Mức giá cổ phần gốc
+    - Tính thanh khoản của thị trường
+    - Tình trạng biến động giá cổ phiếu
