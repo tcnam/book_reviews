@@ -29,5 +29,14 @@ Thành viên của sở GDCK:
 
 ## 2. Nghiệp vụ giao dịch trên thị trường chứng khoán tập trung
 
+Phương thức giao dịch:
+- Khớp lệnh, gồm các loại lệnh giao dịch:
+    - Lệnh tuỳ thuộc thị trường (market order): thực hiện giao dịch với cả hiện hành, nhà đầu tư không biết chính xác mức giá sẽ được giao dịch
+    - Lệnh giới hạn (limit order): ấn định mức giá bán mua trước
+    - Lệnh dừng (stop order): dùng để giới hạn tổn thất, sẽ tự bán hay mua
+        - Dừng để bán (stop-sell): khi giá xuống một ngưỡng thì tự động bán để cắt lỗ
+        - DỪng để mua (stop-buy): trong chứng khoán có một định nghĩa là ngưỡng kháng cự (giá sẽ rất khó cao hơn khoản này và khi khoản này bị vượt thì giá sẽ tăng phi mã) -> đặt lệnh này để kịp mua khi giá tăng nhiều hoặc cắt lỗ cho vị thế bán khống (bán khống nhưng giá lại tăng nên mua vào để cắt lỗ)
+    
+
 ## 3. Thị trường chứng khoán phi tập trung và nghiệp vụ giao dịch chứng khoán trên thị trường chứng khoán phi tập trung
 
