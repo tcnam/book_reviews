@@ -40,3 +40,8 @@ Phương thức giao dịch:
 
 ## 3. Thị trường chứng khoán phi tập trung và nghiệp vụ giao dịch chứng khoán trên thị trường chứng khoán phi tập trung
 
+Khái niệm về OTC: 
+- có thể coi là chợ đen giao dịch chứng khoán chưa lên sàn chứng khoán tập trung
+- Nhiều loại chứng khoán khác nhau: cổ phiếu, trái phiếu,...
+- Giao dịch trực tiếp, tự thảo thuận giá
+
