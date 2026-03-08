@@ -58,7 +58,7 @@ Quỹ đầu tư chia làm 2 loại dựa trên yếu tố cơ bản là cấu t
         - NAV phản ánh giá trị của quỹ
         - Được tính theo công thức
         $$
-        NAV = \frac{(Tổng giá trị tài sản - Tổng nợ phải trả)}{Tổng lượng chứng chỉ quỹ đang phát hành}
+        NAV = \frac{(\text{Tổng giá trị tài sản} - \text{Tổng nợ phải trả})}{\text{Tổng lượng chứng chỉ quỹ đang phát hành}}
         $$
         - Trong đó :
             - **Tổng giá trị tài sản** = giá trị thị trường của các cổ phiếu, trái phiếu, tiền mặt và các khoản cổ tức chờ về mà quỹ đang nắm giữ.
