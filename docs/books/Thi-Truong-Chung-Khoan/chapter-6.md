@@ -31,7 +31,35 @@ Các loại tài khoản khách hàng:
 - Tài khoản tuỳ nghi (Discretionary account): tài khoản uỷ quyền cho phép công ty chứng khoán tự mua bán trên tiền của khách hàng
 - Tài khoản liên kết (Joint Account): tài khoản do 2 người đứng tên, mọi quyết định đều phải do 2 người chấp thuận, có 2 loại:
     - Liên kết dạng thông thường (tenncy-in-commun): nếu một người chết, thì phần của người đó sẽ là di sản của họ
-    - Liên kết được quyền giữ trọn()
+    - Liên kết được quyền giữ trọn (Joint tenants with rights of survivorship): nếu một trong 2 người chết thì đó chuyển người còn lại
+- Tài khoản ủy thác (Fiduciary account): cho phép môi giới tự mua bán
+- Tài khoản công ty (Corporate account)
+
+Ở Việt Nam theo mô hình T + 2, tức là sau khi mua hoặc bán thì cổ phiếu, tiền chưa về ngay mà cần chờ 2 ngày sau (không tính ngày lễ, cuối tuần).
+
 
 
 ## 3. Quỹ đầu tư và công ty quản lý quỹ đầu tư
+
+Quỹ đầu tư là một định chế tài chính trung gian có nhiệm vụ huy động vốn nhỏ bé lẻ tẻ thành nguồn vốn lớn cho các mục đích dài hạn. Các bên tham gia hoạt động của quỹ đầu tư bao gồm:
+- Công ty quản lý quỹ đầu tư: đưa ra quyết định nên mua gì bán gì
+- Ngân hàng giám sát: giữ tiền và chứng khoáng, kiểm tra xem quỹ có làm đúng luật không
+- Người đầu tư: những người góp tiền vào quỹ
+
+Quỹ đầu tư chia làm 2 loại dựa trên yếu tố cơ bản là cấu trúc vốn (cách quỹ huy động tiền), và cách bạn rút tiền ra (giá bán quỹ)
+- Quỹ đóng (close-end funds)
+    - Vốn cố định, chỉ phát hành một lần duy nhất
+    - Giao dịch trên sàn chứng khoán
+    - Giá dựa trên cung cầu thị trường (không dựa vào NAV-giải thích bên dưới)
+- Quỹ đầu tư dạng mở (open-end funds hay mutual funds)
+    - Vốn thay đổi, có thể phát hành thêm cổ phiếu
+    - Phải giao dịch trực tiếp với công ty quản lý quỹ
+    - Giá dựa trên NAV (Net asset Value:) + với phí giao dịch
+        - NAV phản ánh giá trị của quỹ
+        - Được tính theo công thức
+        $$
+        NAV = \frac{(Tổng giá trị tài sản - Tổng nợ phải trả)}{Tổng lượng chứng chỉ quỹ đang phát hành}
+        $$
+        - Trong đó :
+            - **Tổng giá trị tài sản** = giá trị thị trường của các cổ phiếu, trái phiếu, tiền mặt và các khoản cổ tức chờ về mà quỹ đang nắm giữ.
+            - **Tổng nợ phải trả** = Các khoản phí quản lý quỹ phải trả cho công ty quản lý, phí lưu ký cho ngân hàng giám sát, các khoản thuế, v.v.
