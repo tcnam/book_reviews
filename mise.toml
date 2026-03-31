@@ -1,17 +1,17 @@
 [tools]
 node = "20"
-yarn = "1.22"
+yarn = "4.3"
 
 [tasks.lib_install]
 run = "yarn install"
+
+[tasks.doc_build]
+run = "yarn build"
 
 [tasks.doc_local]
 # This will run build first, then start
 depends = ["doc_build"]
 run = "yarn start"
-
-[tasks.doc_build]
-run = "yarn build"
 
 [tasks.doc_remote_mac]
 description = "Deploy from macOS"
