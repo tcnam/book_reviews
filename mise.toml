@@ -1,6 +1,6 @@
 [tools]
 node = "20"
-yarn = "latest"
+yarn = "1.22"
 
 [tasks.lib_install]
 run = "yarn install"
