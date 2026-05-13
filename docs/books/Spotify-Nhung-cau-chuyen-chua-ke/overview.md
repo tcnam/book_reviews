@@ -32,4 +32,4 @@ Thay vì nhìn âm nhạc dưới góc độ nghệ thuật thuần túy như c�
 - Smart buffering: Spotify chỉ tải vài giây đầu của bài hát ngay khi bạn click, tạo cảm giác nhạc phát ra "ngay tức thì" (dưới 200ms), trong khi phần còn lại sẽ được tải ngầm sau đó.
 - Dùng mối quan hệ danh tiếng sẵn có để mời những tài năng trẻ, chuyên gia hàng đầu từ các trường đại học về làm việc cho mình
 
--- Còn tiếp
+----- Còn tiếp 
