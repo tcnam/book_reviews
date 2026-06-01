@@ -15,10 +15,15 @@ run = "yarn start"
 
 [tasks.doc_remote_mac]
 description = "Deploy from macOS"
+usage='''
+arg "<message>" {
+  help "commit message"
+}
+'''
 run = [
   "yarn build",
   "git add .",
-  "git commit -m 'update doc'",
+  "git commit -m '${usage_message?}'",
   "git push origin source",
   "USE_SSH=true yarn deploy"
 ]
@@ -27,10 +32,15 @@ run = [
 description = "Deploy from Windows"
 # Using powershell as the shell for Windows consistency
 shell = "powershell"
+usage='''
+arg "<message>" {
+  help "commit message"
+}
+'''
 run = [
   "yarn build",
   "git add .",
-  "git commit -m 'update doc'",
+  "git commit -m '${usage_message?}'",
   "git push origin source",
   "$env:USE_SSH='true'; yarn deploy"
 ]
