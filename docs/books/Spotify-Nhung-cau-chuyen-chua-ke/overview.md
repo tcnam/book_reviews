@@ -33,3 +33,20 @@ Thay vì nhìn âm nhạc dưới góc độ nghệ thuật thuần túy như c�
 - Dùng mối quan hệ danh tiếng sẵn có để mời những tài năng trẻ, chuyên gia hàng đầu từ các trường đại học về làm việc cho mình
 
 ----- Còn tiếp 
+
+Cần nói rõ quá trình thuyết phục các hãng thu âm cung cấp bản quyền
+
+Quá trình vận hành của spotify sau khi phát hành
+- Ở các thị trường
+- Thay đổi đường lối phát triển, nhân sự cũ không còn phù hợp với công ty
+- Ra mắt bản di động
+- Thay đổi mô hình kinh doanh
+- Thách thức:
+    - IPO vào năm 2014
+    - Gia hạn giấy phép ở châu Âu
+    - thúc đẩy tăng trường bằng cách hợp tác với Facebook
+    - Tiến vào thị trường Mỹ
+
+
+Chương 9: Bảo hiểm schmusk
+
