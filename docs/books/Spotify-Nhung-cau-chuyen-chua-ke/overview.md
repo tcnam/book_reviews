@@ -44,9 +44,39 @@ Quá trình vận hành của spotify sau khi phát hành
 - Thách thức:
     - IPO vào năm 2014
     - Gia hạn giấy phép ở châu Âu
-    - thúc đẩy tăng trường bằng cách hợp tác với Facebook
+        - 
     - Tiến vào thị trường Mỹ
+        - hợp tác với facebook để tiến vào thị trường Mỹ
 
+Chương 8: Đường đến Hoa Kì
+
+Nội dung chính
+- Quen biết với Sean Parker
+- Hợp tác với các công ty viễn thông để có lượng tiền mặt ổn định + vs tiếp cận được nhiều tệp khán giả hơn
+- 
 
 Chương 9: Bảo hiểm schmusk
+
+Chương 10: Sean và Zusk
+
+Chương 11: Mùa đông đang đến
+
+Chương 12: Spotify TV
+
+Chương 13: Apple mua beats
+
+Chương 14: Thung lũng chết
+
+Chương 15: Từ Nashville đến Brooklyn
+
+Chương 16: Dữ liệu lớn
+
+Chương 17: Tài năng đến từ Thuỵ Điển
+
+Chương 18: Cuộc chiến Streaming
+
+Chương 19: Phố Wall
+
+Chương 20: Ngôi nhà Daniel xây dựng
+
 
