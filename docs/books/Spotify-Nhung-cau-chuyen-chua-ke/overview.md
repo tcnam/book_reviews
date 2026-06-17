@@ -32,51 +32,23 @@ Thay vì nhìn âm nhạc dưới góc độ nghệ thuật thuần túy như c�
 - Smart buffering: Spotify chỉ tải vài giây đầu của bài hát ngay khi bạn click, tạo cảm giác nhạc phát ra "ngay tức thì" (dưới 200ms), trong khi phần còn lại sẽ được tải ngầm sau đó.
 - Dùng mối quan hệ danh tiếng sẵn có để mời những tài năng trẻ, chuyên gia hàng đầu từ các trường đại học về làm việc cho mình
 
------ Còn tiếp 
-
-Cần nói rõ quá trình thuyết phục các hãng thu âm cung cấp bản quyền
-
-Quá trình vận hành của spotify sau khi phát hành
-- Ở các thị trường
-- Thay đổi đường lối phát triển, nhân sự cũ không còn phù hợp với công ty
-- Ra mắt bản di động
-- Thay đổi mô hình kinh doanh
-- Thách thức:
-    - IPO vào năm 2014
-    - Gia hạn giấy phép ở châu Âu
-        - 
-    - Tiến vào thị trường Mỹ
-        - hợp tác với facebook để tiến vào thị trường Mỹ
-
-Chương 8: Đường đến Hoa Kì
-
-Nội dung chính
-- Quen biết với Sean Parker
-- Hợp tác với các công ty viễn thông để có lượng tiền mặt ổn định + vs tiếp cận được nhiều tệp khán giả hơn
-- 
-
-Chương 9: Bảo hiểm schmusk
-
-Chương 10: Sean và Zusk
-
-Chương 11: Mùa đông đang đến
-
-Chương 12: Spotify TV
-
-Chương 13: Apple mua beats
-
-Chương 14: Thung lũng chết
-
-Chương 15: Từ Nashville đến Brooklyn
-
-Chương 16: Dữ liệu lớn
-
-Chương 17: Tài năng đến từ Thuỵ Điển
-
-Chương 18: Cuộc chiến Streaming
-
-Chương 19: Phố Wall
-
-Chương 20: Ngôi nhà Daniel xây dựng
 
 
+----- Tiếp tục (2026-06-17)
+
+Ban đầu, Daniel tưởng việc xin bản quyền âm nhạc là việc dễ nhưng thật sự đây là việc khó nhất để spotify có thể xuất hiện trên thị trường. Khi nghe tới ý tưởng phân phối âm nhạc miễn phí, các ông lớn trong ngành lúc đó là Universal Music Group, Sony Music Entertainment, Warner Music Group đều từ chối do không tin vào lợi nhuận của ngành quảng cáo. Chỉ đến khi Petra Hansson (trưởng bộ phận pháp lý phụ trách chính trong việc thương thảo với các ông lớn trong ngành âm nhạc) đưa ra đề xuất về mô hình premium thì các ông lớn mới chịu ngồi vào bàn đàm phán. Sau quá trình hàng năm trời, Spotify cuối cùng cũng lần đầu ra mắt chính thức vào năm 2008 tại một số quốc gia ở châu ÂU và ngay lập tức đạt được nhiều cú huýt lớn.
+
+Không lâu sau đó, các cổ đông mới tham gia tạo áp lực buộc Spotify phải nhanh chóng đạt được một vài thứ sau:
+- Gia hạn giấy phép ở châu Âu
+- Tiến hành IPO
+- Tiến vào thị trường Mỹ
+
+Khi Daniel Ek (Sáng lập Spotify) mang mô hình kinh doanh của mình sang Mỹ, ông đã vấp phải một "bức tường lửa" từ các hãng đĩa lớn (Universal, Sony, Warner). Những rào cản lớn nhất bao gồm:
+- Bóng ma mang tên "Napster" và nỗi sợ vi phạm bản quyền: Đầu thập niên 2000, các dịch vụ chia sẻ nhạc lậu (P2P) như Napster đã tàn phá doanh thu của ngành âm nhạc Mỹ. Các hãng đĩa trở nên cực kỳ đa nghi với bất kỳ công nghệ nào cho phép nghe nhạc "miễn phí" hoặc "trực tuyến". Họ coi Spotify như một mối đe dọa trực tuyến tiếp theo thay vì một giải pháp cứu cánh.
+- Mô hình Freemium bị từ chối kịch liệt: Spotify kiên quyết giữ mô hình Freemium (nghe miễn phí có quảng cáo xen kẽ để thu hút người dùng, rồi chuyển đổi họ sang gói Premium trả phí). Tuy nhiên, các hãng đĩa Mỹ đòi hỏi người dùng phải trả tiền ngay từ đầu. Họ lo ngại việc cho nghe miễn phí sẽ "giết chết" doanh số bán đĩa CD và doanh thu tải nhạc kỹ thuật số (vốn đang được thống trị bởi iTunes của Apple - theo các nguồn tin Steve Jobs có tác động tới các hãng thu âm lớn để ngăn cản Spotify)
+- Hệ thống pháp lý và bản quyền phức tạp hơn so với châu Âu
+
+Để các hãng đĩa gật đầu, Spotify đã phải chấp nhận nhượng bộ bằng việc kí các bảo hiểm Schmuck (Khi một bên bán tài sản (hoặc cấp quyền sử dụng) nhưng sợ rằng mình bị hớ vì trong tương lai giá trị của nó sẽ tăng vọt, họ sẽ yêu cầu giữ lại một phần cổ phần hoặc quyền chọn mua cổ phiếu (equity/stock options) của công ty mua) cùng với đó là thỏa thuận chia sẻ lợi nhuận rất có lợi cho các hãng đĩa.
+
+Ngoài ra, Spotify cũng nhận được một vài sự giúp đỡ từ Sean Parker (Cựu Chủ tịch Facebook, Đồng sáng lập Napster). Parker đã đầu tư vào Spotify và gia nhập hội đồng quản trị.Quan trọng hơn, Parker đã dùng tầm ảnh hưởng và mạng lưới mối quan hệ khổng lồ của mình tại Thung lũng Silicon và Hollywood để kết nối, thuyết phục các giám đốc hãng đĩa Mỹ ngồi vào bàn đàm phán với Daniel Ek. Parker còn giới thiệu Daniel với Mark Zuckerberg
+Tại hội nghị f8 năm 2011 (ngay sau khi Spotify ra mắt tại Mỹ), Facebook đã công bố hợp tác với Spotify từ đó giúp Spotify tiếp cận với tệp người khổng lồ của Facebook tại thời điểm đó
