@@ -54,32 +54,33 @@ Ngoài ra, Spotify cũng nhận được một vài sự giúp đỡ từ Sean P
 Tại hội nghị f8 năm 2011 (ngay sau khi Spotify ra mắt tại Mỹ), Facebook đã công bố hợp tác với Spotify từ đó giúp Spotify tiếp cận với tệp người khổng lồ của Facebook tại thời điểm đó
 
 
-Chương 11: Mùa đông đang đến
+----- Tiếp tục (2026-07-23)
 
 Mặc dù có lợi thế về công nghệ nhưng Spotify lo sợ các ông lớn với nguồn vốn dồi dào lấn sân sang thị trường streaming. Điều này đòi hỏi Spotify phải lớn thật nhanh để không bị nuốt chửng. Daniel - founder, giao nhiệm vụ đạt được con số 100 triệu người dùng cho Alex Norstrom.
 
 Công ty phát triển nhanh dẫn tới nhân sự ngày một nhiều, môi trường bắt đầu có sự xung đột giữa nhân sự cũ và nhân sự mới. Người mới không hoà nhập được với văn hoá đã tồn tại ở Spotify.
 Cổ đông đa dạng hơn đồng nghĩa với nhiều yêu cầu hơn, Daniel phải kiếm cách làm hài lòng họ
 
-Việc hợp tác với facebook, khiến danh sách nhạc của người dùng bị chia sẻ trên facebook
-
-Chương 12: spotify TV
 Spotify từng bí mật phát triển spotify TV - một phiên bản truyền hình cáp kĩ thuật số nhưng tối ưu nội dung cho người dùng và cho phép phát lại, nhưng thất bại do chi phí bản quyền quá lớn cũng như các sản phẩm trên thị trường đã ra mắt và đã có ngừoi dùng
 
-Chương 13: Apple mua beats
-Sự ra đời của spotify podcast
-
-Chương 14: thung lungx chết
 Khi apple ra mắt iphone, kỉ nguyên điện thoại di động bùng nổ, người dùng chuyển sang dùng thiết bị di động - nơi spotify còn nhiều hạn chế (chỉ dùng được khi đã trả phí, bản dùng thử miễn phí thời gian quá ngắn). Spotify buộc phải thoả thuận lại bản quyền với các hãng thu âm. Daniel từng thừa nhận nếu việc này không thành công spotify sẽ sụp đổ trong 6 tháng
-
-Chương 15: từ nashville đến Brokylyn
 
 Sau khi đạt được thành công với phiên bản di động, số lượng người dùng miễn phí tăng vọt nhưng điều này khiến công ty chịu khoản lỗ hằng tháng do vẫn phải trả tiền cho các hãng thu âm, mặc khác hệ thống quảng cáo vẫn chưa hoàn thiện
 
 Nghệ sĩ tự tạo nên nền tảng streaming riêng - Fidal, họ rút nhạc trên nền tảng spotify và upload lên nền tảng này
 
-Chương 16: Dữ liệu lớn
-Chương 17: tài năng đến từ thuỵ điển
-Chương 18: Cuộc chiến streaming
-Chương 19: phố wall
-Chương 20: ngôi nhà Daniel xây dựng
+Spotify phát hành các tính năng mới, có tính năng thành công, có tính năng thất bại
+- Discovery weekly: gợi ý random các bài hát mỗi tuần dựa trên thị hiếu người dùng, trở thành bệ đỡ cho các nghệ sĩ trẻ
+- Radio: chọn 1 bài hát bất kì, sau đó spotify sẽ pick ra random 50 bài có giai điệu tương tự
+- Moment: thất bại
+Những nhân tài làm ra các chức năng này không dược các lãnh đạo trong spotify trọng dụng, họ lần lượt rời đi và gia nhập các công ty trí tuệ nhân taọ như deepmind của google
+
+Khi spotify kỉ niệm 10 năm hoạt động, các dịch vụ truyền phát trực tuyến đã trở thành nguồn doanh thu lớn nhất cho ngành âm nhạc Mỹ. Tăng trưởng đã thực sự quay trở lại với ngành công nghiệp dường như đang chết dần từ năm 1999
+
+Daniel thay dổi theo sự phát triển của công ty, anh dần xa cách với những người bạn cũ, thay vào đó anh thích các cuộc giao lưu kín tiếng, đầu tư thời gian tạo lập quan hệ với các nhà lãnh đạo tương lai cũng như chủ doanh nghiệp khác. Anh cảm thấy họ có điểm chung là đang phải đối mặt với những thách thức mang tính vĩ mô. CỤ thể là muốn tác động đến văn hoá
+
+Barry McCarthy - giám đốc tài chính đưa ra nhiều thay đổi nhằm mục đích giúp Spotify IPO trên sàn New York. Ông không ngại va chạm với bất kì ai
+
+Spotify buộc phải mở rộng ở New York do gặp vấn đề địa chính trị ở Thuỵ Điển
+
+Spotify muốn mua lại Fidal và Soundclound nhưng không thành do Fidal đòi giá quá cao, còn Soundclound thì gặp vấn đề vi phạm bản quyền, không chi trả tiền cho nghệ sĩ và các bên thu âm
