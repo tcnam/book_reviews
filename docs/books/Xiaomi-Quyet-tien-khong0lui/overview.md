@@ -75,7 +75,20 @@ Con đường mở rộng, hình thành hệ sinh thái:
   - Mua tên miền mi.com tốn 3,6 triệu USD. Tên miền này đã được mua bởi một giáo sư bên Stanford - ông này có sở thích sưu tầm tên miền (nghe giống cố tình làm tiền thì đúng hơn)
   - Chọn những thị trường đầu tiên để xâm nhập:
     - Ấn Độ:
-- Bài toán mở rộng theo chiều ngang khi chiều dọc đã đạt đỉnh, cụ thể ở đây là kênh bán hàng online
-- Bài toán chuyển dịch quy trình quản lý từ một công ty start-up sang một công ty lớn
-- Khó khăn tới từ nhà cung ứng khiến uy tín bị sụt giảm
-- Đối thủ cạnh tranh lao vào giành thị phần khi Xiaomi dược định giá 45 tỷ đô
+
+- Khó khăn bủa vây
+  - Bài toán mở rộng theo chiều ngang khi chiều dọc đã đạt đỉnh, cụ thể ở đây là kênh bán hàng online
+  - Bài toán chuyển dịch quy trình quản lý từ một công ty start-up sang một công ty lớn
+  - Khó khăn tới từ nhà cung ứng khiến uy tín bị sụt giảm
+  - Đối thủ cạnh tranh lao vào giành thị phần khi Xiaomi dược định giá 45 tỷ đô
+  - Giải quyết vấn để chính trị trong xiaomi, do bộ phận phần cứng trước đó có tiếng nói quá lớn. Lôi Quân sau đó đã cho thôi việc trường bộ phận, vì không kiếm được người phù hợp ông đã trực tiếp cầm lái. Để nhanh chóng làm quen, ông đã có cuộc đối thoại với hơn 200 nhân viên từ từng phòng ban nhằm nắm bắt được cốt lõi nghiệp vụ và những khó khăn gặp phải. Ông cải tổ lại cấu trúc quy trình, gắn kết các bộ phận từng rất rời khác như bộ phận thiết kết ngoại hình và phần cứng bên trong
+  - Gía trị hàng tồn kho ở nước ngoài lên đến 1 tỷ: do xuất điện thoại Mi 4 qua Ấn Độ với option 3G. Giải pháp đưa ra là nhanh chóng kiếm các thị trường nước ngoài chưa trải qua đợt thay điện thoại để bán đống tồn kho này
+  - Trong lần đầu tiên mở bán ở cửa hàng vật lý, xiaomi cho nhân viên tới xếp hàng cùng khách, nhân viên người thì làm ảo thuật, một số khác thì đi pha cafe, nấu ăn
+
+- Cách quẩn lý các công ty trong chuỗi sinh thái (tức các công ty nhận được đầu tư của Xiaomi): 
+  - tiến hành kiếm soát báo cáo chi phí, lợi nhuận, thiết lập cơ chế tỷ lệ lợi nhuận chia lại cho bên xiaomi
+  - Tạo hệ thống thu mua tập trung, giúp các công ty trong hệ sinh thái mua nguyên liệu với giá tốt nhất, nếu công ty không muốn tham gia thì phải chứng minh được mình có khả năng thu mua với mức giá tốt hơn thế
+
+- Cú vạ miệng của giám đốc điều hành khiến Xiaomi mất nguồn cung màn hình từ Samsung
+- Quá trình cải tổ bộ phận chuỗi cung ứng:
+  - Điều tra chi phí thật sự của linh kiện được cung ứng để deal lại giá mua
