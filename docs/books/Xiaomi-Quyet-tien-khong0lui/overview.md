@@ -53,42 +53,43 @@ Quá trình ban đầu
   - Co-founder chưa có nhiều kinh nghiệm deal với các bên cung ứng. Do sợ lỡ mất cơ hội, họ thậm chí còn đặt bút kí vào hợp đồng với Qualcomn khi chưa nắm được hết điều khoản
 - Quá trình sản xuất ban đầu sản lượng chưa đạt được như nhu cầu thị trường, tới lúc sản lượng ổn thì bên nhà cung ứng không giao đủ nguyên liệu
 
-Con đường mở rộng, hình thành hệ sinh thái:
-- MiTalk: đạt được nhiều thành công về mảng nhắn tin nhanh khi mới ra mắt, nhưng khi Tecent bước vào cuộc chơi với wechat thì MiTalk dần đánh mất lợi thế cạnh tranh. Lôi Quân quyết định đổi chiến lược của sản phẩm
-- Chiến lược mã nguồn mở
-- Quỹ Shunwei
+# Tiếp tục (25-Oct-2026)
+Sau thành công chấn động của Mi 1, Xiaomi không chọn cách an phận làm một nhà sản xuất smartphone đơn thuần. Lôi Quân nhận ra rằng để giữ chân người dùng và tạo ra một đế chế công nghệ bền vững, họ cần xây dựng một hệ sinh thái khép kín.
+- Sự ra đời của thương hiệu Redmi với chiến lược: Cấu hình cao, giá siêu rẻ, chất lượng chuẩn mực. Đã dẹp bỏ hoàn toàn vấn nạn hàng nhái
+- Smart TV và các sản phẩm bổ trợ chiến lược: Xiaomi lấn sân sang mảng giải trí gia đình với Smart TV – nơi họ áp dụng chính mô hình phần cứng bán sát giá gốc để kiếm tiền từ dịch vụ nội dung Internet. Song song đó, các sản phẩm bổ trợ nhỏ gọn nhưng thiết yếu như pin dự phòng (Power Bank) vỏ nhôm nguyên khối, tai nghe, router WiFi được tung ra. Những món phụ kiện này đóng vai trò "tiền trạm" hoàn hảo, giúp định hình nhận diện thương hiệu cao cấp nhưng giá bình dân trong mắt người tiêu dùng.
+- Mở rộng sang đế chế IoT (Internet of Things): Xiaomi bắt đầu ươm mầm hàng loạt startup bằng mô hình đầu tư hợp tác độc đáo. Họ không tự mình sản xuất mọi thứ mà rót vốn, hỗ trợ công nghệ, thiết kế và chuỗi cung ứng cho các công ty nhỏ để tạo ra một hệ sinh thái thiết bị thông minh khổng lồ: từ nồi cơm điện, máy lọc không khí, robot hút bụi cho đến vòng đeo tay thông minh Mi Band. Sản phẩm thuộc chuỗi sinh thái phải đáp ứng nhu cầu của hầu hết người dùng, phải đạt danh số bán hàng loạt khi đưa ra thị trường. Xiaomi trao rất nhiều quyền cho những nhà thiết kế bên dưới và khúc xét duyệt cuối cùng trên cùng lại cực kì gay gắt.
 
-- Dịch vụ hậu mãi: 
-- Sự ra đời của Redmi: chấm đứt tình trạng hàng nhái, tập trung sử dụng linh kiện trong nước tạo điều kiện cho các doanh nghiệp trong nước
-- Lấn sân sang Smart TV, thử nghiệm chiếc điều khiển ti vi trong môi trường tối để xem bằng trực giác, ta có thể sử dụng được không
-- Chiến lược chuỗi sinh thái:
-  - Bắt đầu từ những thiết bị liên quan đến điện thoại: pin dự phòng
-  - IOT: kĩ sư trong xiaomi phát minh được một module chỉ cần gắn vào bảng mạch của thiết bị là thiết bị có thể tham gia vào được mạng. Xiaomi muốn mời các bên sản xuất phần cứng tham gia nhưng mỗi bên đều muốn làm chuẩn của riêng mình chứ không muốn phụ thuộc. Lôi Quân gợi ý nên hợp tác với các bên đang được Xiaomi đầu tư trước
-    - Đầu tiên là máy lọc không khí
-    - Đồng hồ thông minh
-    - Đèn chiếu sáng
-    - Máy hút bụi
-    - Camera
-  -> Sản phẩm thuộc chuỗi sinh thái phải đáp ứng nhu cầu của hầu hết người dùng, đạt danh số bán hàng loạt khi đưa ra thị trường. Xiaomi trao rất nhiều quyền cho những nhà thiết kế bên dưới và khúc xét duyệt cuối cùng trên cùng lại cực kì gay gắt
+Sự ra đời của Quỹ Shunwei (Thuận Vi Capital) – Cánh tay nối dài của hệ sinh thái:
+- Vai trò và sứ mệnh: Shunwei Capital hoạt động độc lập nhưng đóng vai trò như một "bệ phóng chiến lược" cho hệ sinh thái của Xiaomi. Trong khi Xiaomi tập trung vào cốt lõi là điện thoại và các thiết bị trọng điểm, Shunwei đi trước một bước để tìm kiếm, rót vốn vào các công ty công nghệ sáng tạo ở giai đoạn đầu (early-stage startup).
+- Chính nhờ bàn tay hậu thuẫn của Shunwei Capital, Xiaomi đã nhanh chóng xây dựng được một "vòng tròn đồng minh" chặt chẽ, biến hàng loạt công ty khởi nghiệp vô danh thành các kỳ lân phần cứng hàng đầu trong hệ sinh thái Mi Ecosystem mà không cần tốn quá nhiều nguồn lực tự xây dựng từ đầu.
 
-- Con đường vươn ra quốc tế
-  - Mua tên miền mi.com tốn 3,6 triệu USD. Tên miền này đã được mua bởi một giáo sư bên Stanford - ông này có sở thích sưu tầm tên miền (nghe giống cố tình làm tiền thì đúng hơn)
-  - Chọn những thị trường đầu tiên để xâm nhập:
-    - Ấn Độ:
+Câu chuyện về MiTalk
+- Bối cảnh: MiTalk ra mắt gần như cùng thời điểm hoặc thậm chí sớm hơn WeChat của Tencent. Trong giai đoạn đầu, MiTalk phát triển rất nhanh và là niềm hy vọng lớn của Lôi Quân trong việc nắm giữ "tấm vé lên tàu" bước vào kỷ nguyên mạng xã hội di động.
+- Bài học thất bại: Tuy nhiên, khi Tencent dồn toàn lực vào WeChat và tận dụng triệt để mạng lưới quan hệ khổng lồ có sẵn từ QQ (social graph), MiTalk dần thất thế trong cuộc chiến đốt tiền và hạ tầng marketing. Dù thất bại trước WeChat, MiTalk lại đóng vai trò là "vườn ươm kỹ thuật" cực kỳ quan trọng: chính qua quá trình xây dựng MiTalk, Xiaomi đã rèn luyện được một đội ngũ kỹ sư phần mềm xuất sắc, làm chủ công nghệ máy chủ và kết nối thời gian thực
 
-- Khó khăn bủa vây
-  - Bài toán mở rộng theo chiều ngang khi chiều dọc đã đạt đỉnh, cụ thể ở đây là kênh bán hàng online
-  - Bài toán chuyển dịch quy trình quản lý từ một công ty start-up sang một công ty lớn
-  - Khó khăn tới từ nhà cung ứng khiến uy tín bị sụt giảm
+Sau khi đã đứng vững số một tại thị trường nội địa Trung Quốc, Xiaomi quyết định bước ra biển lớn với chiến lược toàn cầu hóa.
+- Thị trường "bước đệm" Ấn Độ: Ấn Độ được chọn làm bãi chiến trường quốc tế đầu tiên. Với đặc thù thị trường tương tự Trung Quốc (thu nhập người dân chưa cao nhưng nhu cầu smartphone bùng nổ), Xiaomi áp dụng nguyên bản mô hình kinh doanh trực tuyến, bán hàng chớp nhoáng (flash sale) kết hợp chiến lược truyền thông mạng xã hội.
+- Chỉ trong một thời gian ngắn, Xiaomi đã tạo nên cơn địa chấn, đánh bật nhiều tên tuổi lớn để vươn lên giành ngôi vị số một về thị phần smartphone tại Ấn Độ.
+
+Đằng sau ánh hào quang của một "siêu kỳ lân" tăng trưởng thần tốc là những giai đoạn khủng hoảng suýt đánh gục cả tập đoàn:
+- Khó khăn trong chuỗi cung ứng:
+  - Xiaomi liên tục rơi vào tình trạng cháy hàng. Khách hàng xếp hàng dài nhưng không mua được máy, dẫn đến tin đồn ác ý rằng Xiaomi cố tình tạo khan hiếm giả tạo để câu khách. Thực tế, đó là nỗi đau đớn của một startup non trẻ bị bóp nghẹt vì chuỗi cung ứng đứt gãy.
+  - Cú vạ miệng của giám đốc điều hành khiến Xiaomi mất nguồn cung màn hình từ Samsung
+  - Một vài nhà cung ứng đột ngột phá sản khiến việc sản xuất bị đình trệ
+- Khó khăn trong việc phá triển và quản lý chất lượng sản phẩm:
+  - Vấn để chính trị trong xiaomi, do bộ phận phần cứng trước đó có tiếng nói quá lớn.
+- Khó khăn trong tăng trưởng
+  - Tăng trưởng đạt đỉnh do kênh phân phối online đã chạm trần
   - Đối thủ cạnh tranh lao vào giành thị phần khi Xiaomi dược định giá 45 tỷ đô
-  - Giải quyết vấn để chính trị trong xiaomi, do bộ phận phần cứng trước đó có tiếng nói quá lớn. Lôi Quân sau đó đã cho thôi việc trường bộ phận, vì không kiếm được người phù hợp ông đã trực tiếp cầm lái. Để nhanh chóng làm quen, ông đã có cuộc đối thoại với hơn 200 nhân viên từ từng phòng ban nhằm nắm bắt được cốt lõi nghiệp vụ và những khó khăn gặp phải. Ông cải tổ lại cấu trúc quy trình, gắn kết các bộ phận từng rất rời khác như bộ phận thiết kết ngoại hình và phần cứng bên trong
-  - Gía trị hàng tồn kho ở nước ngoài lên đến 1 tỷ: do xuất điện thoại Mi 4 qua Ấn Độ với option 3G. Giải pháp đưa ra là nhanh chóng kiếm các thị trường nước ngoài chưa trải qua đợt thay điện thoại để bán đống tồn kho này
-  - Trong lần đầu tiên mở bán ở cửa hàng vật lý, xiaomi cho nhân viên tới xếp hàng cùng khách, nhân viên người thì làm ảo thuật, một số khác thì đi pha cafe, nấu ăn
+  - Do việc phổ cập điện thoại thông minh cho thành phố cấp 1, 2 đã hoàn thành, còn thành phố cấp 3,4, vùng nông thôn đang bị các của hàng ngoại tuyến của OPPO và Vivo nắm giữ
 
-- Cách quẩn lý các công ty trong chuỗi sinh thái (tức các công ty nhận được đầu tư của Xiaomi): 
+Để giải quyết các vấn đề trên Xiaomi đã tiến hành hàng loạt biện pháp:
+- Lôi Quân sau đó đã cho thôi việc trường bộ phận, vì không kiếm được người phù hợp ông đã trực tiếp cầm lái. Để nhanh chóng làm quen, ông đã có cuộc đối thoại với hơn 200 nhân viên từ từng phòng ban nhằm nắm bắt được cốt lõi nghiệp vụ và những khó khăn gặp phải. Ông cải tổ lại cấu trúc quy trình, gắn kết các bộ phận từng rất rời khác như bộ phận thiết kết ngoại hình và phần cứng lại làm một, giúp phần cứng hiểu được góc nhìn của thiết kế ngoại hình và ngược lại
+- Tìm cách cân bằng quyền lực của bộ phận kiểm định chất lượng sản phẩm ngang hàng với bộ phận phát triển sản phẩm
+- Lên chiến lược mở cửa hàng ngoại tuyến nhưng vẫn đảm bảo chi phí vận hành phải ngang với bán hàng online bằng cách để hàng tồn không quá lâu, tăng tốc độ bán hàng. Trong lần đầu tiên mở bán ở cửa hàng vật lý, xiaomi cho nhân viên tới xếp hàng cùng khách, nhân viên người thì làm ảo thuật, một số khác thì đi pha cafe, nấu ăn. Khi thật sự nghiêm túc với việc mở của hàng ở Xiaomi thì Trương Kiếm Tuệ túc trực bên ngoài của hàng Apple để ghi chép lại tần suất ra vào của khách hàng các buổi trong ngày, nam hay nữ nhiều, nhóm tuổi phân bổ ra sao, xem người tiêu dùng khi ra khỏi cửa hàng sẽ rẽ trái hay phải, lộ trình apple thiết kế ra sao, phương thức trưng bày sản phẩm, đăng kí khoá học cách đào tạo nhân viên Apple
+- Kiểm soát tập trung các công ty trong hệ sinh thái.
   - tiến hành kiếm soát báo cáo chi phí, lợi nhuận, thiết lập cơ chế tỷ lệ lợi nhuận chia lại cho bên xiaomi
   - Tạo hệ thống thu mua tập trung, giúp các công ty trong hệ sinh thái mua nguyên liệu với giá tốt nhất, nếu công ty không muốn tham gia thì phải chứng minh được mình có khả năng thu mua với mức giá tốt hơn thế
-
-- Cú vạ miệng của giám đốc điều hành khiến Xiaomi mất nguồn cung màn hình từ Samsung
-- Quá trình cải tổ bộ phận chuỗi cung ứng:
-  - Điều tra chi phí thật sự của linh kiện được cung ứng để deal lại giá mua
+- Điều tra chi phí thật sự của linh kiện được cung ứng để deal lại giá mua từ những linh kiện nhỏ nhất như những con ốc
+- Tiếp tục khẳng định vị thế dẫn dầu bằng Mi Mix - Chiếc điện thoại toàn màn hình đầu tiên của thế giới
+- Trước khi quyết định mở một cửa hàng vật lý thì phải có một buổi trình bày về vị trí, thiết kế của cửa hàng, hành trình của khách hàng sẽ được thiết kế ra sao, góc nhìn của khách hàng ở từng lộ trình sẽ như thế nào
